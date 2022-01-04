@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Shakil Hossain
 #### I am Junior Web Developer
-![I am Junior Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Junior Web Developer](https://images.pexels.com/photos/34600/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=750&w=1260)
 
 Hi, I am a Junior Front-End Developer.To take a challenging role as Front End Web Developer in a highly technical company where I could utilize my skills in Front-End Web Development.
 
